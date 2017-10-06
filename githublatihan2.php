@@ -1,2 +1,9 @@
-Github adalah server untuk menyimpan project<br>
-Sebagai programmer harus tau Github dong
+<div class="header">
+ 	Isi Header
+</div>
+<div class="content">
+	Isi Konten
+</div>
+<div class="footer">
+	Isi Footer
+</div>
