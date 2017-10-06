@@ -4,5 +4,5 @@
 	}
 </style>
 <div class="test">
-	Ini adalah website pertama saya
+	Ini adalah website pertama saya bro
 </div>
